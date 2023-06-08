@@ -1,6 +1,6 @@
-# project1-Explorer
+# Project1-Explorer
 
-> Explorer Challenge - Stage 02:
+> Explorer Project-class - Stage 02:
 
 
 ![project1 1](https://github.com/kleck-lucena/project1-Explorer/assets/107014908/66c7fdc4-86cc-441d-b499-62bc73458887)
