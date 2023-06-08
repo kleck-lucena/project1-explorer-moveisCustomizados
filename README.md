@@ -8,7 +8,7 @@
 
 </p>
 
-Project created in the Explorer Program promoved by Rocketseat.
+Projeto criado no programa Explorer - stage 2, promovido pela Rocketseat.
 
 
 ## ⚒️ Tech Applied:
@@ -16,4 +16,4 @@ Project created in the Explorer Program promoved by Rocketseat.
 - CSS
 
 ## 👩‍💻 Experience:
-Project created to practice fundamentals structural for example: span, position, aling text, font, colors etc . <br/>  
+Para a execução do projeto foi aplicado conceitos fundamentais de HTML, tais como: atributos, tag semântica, elementos "in line" e "block". Assim como, fundamentos do CSS: propriedades básicas, seletores, especificidade, customização de fontes, inserção de imagem e bordas, redirecionamento de link.<br/> Por fim, em um projeto de estrutura simples, mas essencial, foi possível construir o pilar do conhecimento sobre alinhamento, posicionamento e espaçamento, os quais são imprescindíveis para desenvolver projetos mais complexos. 
