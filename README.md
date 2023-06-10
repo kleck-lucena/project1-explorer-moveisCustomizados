@@ -1,15 +1,12 @@
-# Project1-Explorer
+# 1º Projeto - Programa Explorer
 
-> Explorer Project - class - Stage 02:
+> Projeto construído no programa Explorer, promovido pela Rocketseat, no stage 2 - em aula.
 
 
 ![project1 1](https://github.com/kleck-lucena/project1-Explorer/assets/107014908/66c7fdc4-86cc-441d-b499-62bc73458887)
 
 
 </p>
-
-Projeto criado no programa Explorer - stage 2, promovido pela Rocketseat.
-
 
 ## ⚒️ Tecnologias Aplicadas:
 - HTML
